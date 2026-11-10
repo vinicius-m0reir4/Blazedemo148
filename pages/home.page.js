@@ -21,3 +21,5 @@ class HomePage {
     // Faremos nos testes 
 
 } // fecha a classe
+
+export default HomePage; // tornar a classe visivel 
