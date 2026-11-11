@@ -2,7 +2,7 @@ class ReservePage {
 
     constructor(page){
         this.page = page; 
-        this.url = 'reserve';
+        this.url = /reserve/;
         this.tituloSecao = 'h3';
     }
 
